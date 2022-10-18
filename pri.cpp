@@ -4,7 +4,7 @@ using namespace std;
 int main (){
 
 
-cout<<"Esto es una prueba";
+cout<<"Esto es una pruebarata";
 
 return 0;
 }
